@@ -6,6 +6,7 @@ Show: Collecting and self-monitoring status for selected 1,000 cities.
 
 **Features**:
 - **Self-reboot**:
+
 ![VPN REBOOTING](https://github.com/user-attachments/assets/cef6a56f-af5e-4a99-ba8e-dc4cb4606f9a)
 
 - 
